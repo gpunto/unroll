@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unroll</string>
+    <string name="share">Share</string>
+    <string name="no_link">Share the link to a tweet to this app</string>
+</resources>
